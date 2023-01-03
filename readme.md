@@ -2,11 +2,7 @@
 
 For this assignment, you will build a weather application that will make use of the [wttr.in API](https://github.com/chubin/wttr.in) to show the weather in different locations. Your application will also store previous searches.
 
-There are 7 features that need to be created. Each completed feature (passes all the tests) will be worth 1 point.
-
-A minium of 5 points must be attained in order to pass this project.
-
-You may receive partial credit (0.5 points) for code that is close to passing the tests, but does not pass all the tests.
+Please see [the rubric](./rubric.md) for full details on what you will be graded on.
 
 If you have gotten all the tests passing, you are strongly encouraged to work on the CSS/overall appearance of the app and add additional features. A nice weather app project has the potential to be something you could add to your portfolio.
 
